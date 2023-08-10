@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Haldiya</h1>
 <h3 align="center">A passionate Webapp developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashasvi9199&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi9199" /> </p>
-
 - 🔭 I’m currently working on **Jio Business Marketplace**
 
 - 🌱 I’m currently learning **SpringBoot MVC**
