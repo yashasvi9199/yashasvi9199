@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashasvi9199&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi9199" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashasvi9199" alt="yashasvi9199" /></a> </p>
-
 - 🔭 I’m currently working on **Jio Business Marketplace**
 
 - 🌱 I’m currently learning **SpringBoot MVC**
