@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **yashldiya@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/yashasvi9199/yashasvi9199/tree/main/Resume](https://github.com/yashasvi9199/yashasvi9199/tree/main/Resume)
+- 📄 Know about my experiences [gDrive link](https://drive.google.com/drive/folders/1mb5qmbJRKGqX6KLDUAeQaDKVfqoNXib1?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
