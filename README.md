@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Haldiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Learning_react_beginner](https://github.com/yashasvi9199/learning_react_beginner)
+- 🔭 I’m currently working on [Python](https://github.com/yashasvi9199/Python)
 
 - 🌱 I’m currently learning **Python Machine Learning**
 
