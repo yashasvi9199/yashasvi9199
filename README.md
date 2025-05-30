@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **MERN Full Stack Development**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **ML/AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashasvi9199](https://github.com/yashasvi9199)
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **javascript** and **python**
 
 - 📫 How to reach me : **yashldiya@gmail.com**
 
-- 📄 Know about my experiences [gDrive link](https://drive.google.com/drive/folders/1mb5qmbJRKGqX6KLDUAeQaDKVfqoNXib1?usp=sharing)
+- 📄 Know about my experiences [remume](https://drive.google.com/drive/folders/1mb5qmbJRKGqX6KLDUAeQaDKVfqoNXib1?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,7 +48,10 @@
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40"/> 
-</a> </p>
+</a> 
+</a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/376344/python.svg" alt="Python" width="40" height="40"/> 
+</a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvi9199&show_icons=true&locale=en&layout=compact" alt="yashasvi9199" /></p>
 
