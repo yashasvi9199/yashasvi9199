@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Learning_react_beginner](https://github.com/yashasvi9199/learning_react_beginner)
 
-- 🌱 I’m currently learning **MERN Full Stack Development**
+- 🌱 I’m currently learning **Python Machine Learning**
 
 - 👯 I’m looking to collaborate on **ML/AI Projects**
 
