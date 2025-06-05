@@ -1,57 +1,30 @@
 <h1 align="center">Hi 👋, I'm Yash Haldiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [Python](https://github.com/yashasvi9199/Python)
-
-- 🌱 I’m currently learning **Python Machine Learning**
-
-- 👯 I’m looking to collaborate on **ML/AI Projects**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashasvi9199](https://github.com/yashasvi9199)
 
-- 💬 Ask me about **javascript** and **python**
-
 - 📫 How to reach me : **yashldiya@gmail.com**
 
-- 📄 Know about my experiences [remume](https://drive.google.com/drive/folders/1mb5qmbJRKGqX6KLDUAeQaDKVfqoNXib1?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/yashasvi9199/yashasvi9199/blob/main/Resume/Yash%20Haldiya%20(June%202025).pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/yashasvi9199" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/353582/codepen-icon.svg" alt="yashasvi9199" height="30" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/yash-haldiya-230888165" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="yash-haldiya" height="40" width="40" />
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-haldiya) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/yashasvi9199) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashasvi9199@gmail.com) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/349402/html5.svg" alt="html5" width="40" height="40"/> 
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="40" height="40"/> 
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> 
-</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452054/linux.svg" alt="linux" width="40" height="40"/> 
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/439231/mongodb.svg" alt="mongodb" width="40" height="40"/> 
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/439233/mysql.svg" alt="mysql" width="40" height="40"/> 
-</a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40"/> 
-</a> 
-</a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/376344/python.svg" alt="Python" width="40" height="40"/> 
-</a></p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvi9199&show_icons=true&locale=en&layout=compact" alt="yashasvi9199" /></p>
 
+
+# 📊 GitHub Stats:
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=yashasvi9199&theme=dark&hide_border=false)<br/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvi9199&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+
+
+<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashasvi9199/yashasvi9199/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashasvi9199/yashasvi9199/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yashasvi9199/yashasvi9199/output/pacman-contribution-graph.svg">
+</picture>
