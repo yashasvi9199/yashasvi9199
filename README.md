@@ -7,8 +7,6 @@
 
 - 📫 How to reach me : **yashldiya@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/yashasvi9199/yashasvi9199/blob/main/Resume/Yash%20Haldiya%20(June%202025).pdf)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-haldiya) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/yashasvi9199) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashasvi9199@gmail.com) 
 
