@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashasvi9199](https://github.com/yashasvi9199)
+- 👨‍💻 All of my projects are available at [https://github.com/yashasvi9199/repositories](https://github.com/yashasvi9199?tab=repositories)
 
 - 📫 How to reach me : **yashldiya@gmail.com**
 
