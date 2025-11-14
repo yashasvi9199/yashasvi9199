@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Haldiya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently working on **Web Developmnet**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashasvi9199/repositories](https://github.com/yashasvi9199?tab=repositories)
+- 👨‍💻 All of my projects are available at my [website](https://yashasvi9199.github.io/)
 
 - 📫 How to reach me : **yashldiya@gmail.com**
 
