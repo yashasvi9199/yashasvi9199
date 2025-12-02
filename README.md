@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently working on **Web Developmnet**
 
-- 👨‍💻 All of my projects are available at my [website](https://yashasvi9199.github.io/)
+- 👨‍💻 All of my projects are available at my [Portfolio Website](https://yashasvi9199.github.io/)
 
-- 📫 How to reach me : **yashldiya@gmail.com**
+- 📫 How to reach me : **yashaldiya@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-haldiya) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/yashasvi9199) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashasvi9199@gmail.com) 
