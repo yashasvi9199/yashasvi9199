@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **Web Developmnet**
 
-- 👨‍💻 All of my projects are available at my [Portfolio Website](https://yashasvi9199.github.io/)
+- 👨‍💻 All of my projects are available at my [Portfolio Website](https://yash-haldiya.pages.dev/)
 
 - 📫 How to reach me : **yashaldiya@gmail.com**
 
